@@ -1,0 +1,72 @@
+body {
+    background: #282828;
+    background-image: url(/imgs/tile.jpg);
+    background-repeat: repeat;
+}
+
+.content {
+    background: #282828;
+    color: #fbf1c7;
+    font-family: monospace, monospace;
+    width: 640px;
+    margin: 0 auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 30px;
+    padding-left: 30px;
+    box-shadow: 0px 0px 25px #1d2021;
+    border-radius: 60px/15px;
+}
+
+.published_date {
+    font-size: 10px;
+    color: #928374;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+hr {
+    color: #fb4934;
+}
+
+.tilde {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+h1 {
+    color: #d3869b;
+    a, a:visited {
+        color: #d3869b;
+    }
+}
+
+h2 {
+    color: #fe8019;
+    a, a:visited {
+        color: #fe8019;
+    }
+}
+
+h3 {
+    color: #8ec07c;
+    a, a:visited {
+        color: #8ec07c;
+    }
+}
+
+h4 {
+    color: #b8bb26;
+    a, a:visited {
+        color: #b8bb26;
+    }
+}
+
+a {
+    color: #83a598;
+}
+
+a:visited {
+    color: #83a598;
+}

@@ -1,0 +1,10 @@
+site:
+  title: polymerwitch
+  description: trying to figure out the intersection of community and code
+  base_url: http://www.polymerwitch.com
+posts:
+  rss: rss.xml
+assets:
+  sass:
+    style: Nested
+
