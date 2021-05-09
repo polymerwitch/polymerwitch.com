@@ -2,7 +2,7 @@
 layout: index.liquid
 ---
 # polymerwitch 👩‍💻
-<a href="https://social.polymerwitch.com/@polymerwitch">Mastodon</a>
+<a rel="me" href="https://social.polymerwitch.com/@polymerwitch">Mastodon</a>
 |
 <a href="https://polymerwitch.bandcamp.com">Bandcamp</a>
 |
